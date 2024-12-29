@@ -20,7 +20,7 @@ Tecnologías Utilizadas:
     Canva: Presentación visual y diseño de mockups.
     Drawio: Creación del diagrama entidad-relación.
 
-Instrucciones de Instalación y Uso
+Instrucciones de Instalación y Uso: 
     Abrir el archivo de Power BI ubicado en la carpeta.
     Explorar el dashboard con los datos ya cargados y listos para su análisis.
     Utilizar los filtros y visualizaciones para obtener insights estratégicos.
